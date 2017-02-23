@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Official DSiHAX
 
-You can use the [editor on GitHub](https://github.com/zeitrn/dsihax.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+You can use the [Good DSiHAX v. 0.9b here](https://github.com/zeitrn/dsihax.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
